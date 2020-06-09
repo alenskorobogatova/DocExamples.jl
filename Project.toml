@@ -1,13 +1,7 @@
-name = "DocExamples"
-uuid = "d3117432-c7d9-4029-9572-6416af1dba91"
-authors = ["Alena I. Skorobogatova <51082045+alenskorobogatova@users.noreply.github.com> and contributors"]
+name = "DocExample"
+uuid = "d2931bb0-0ff3-4fee-972b-bc9fa6c50db3"
+authors = ["Alena I. Skorobogatova <51082045+alenskorobogatova@users.noreply.github.com>"]
 version = "0.1.0"
 
-[compat]
-julia = "1"
-
-[extras]
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
-
-[targets]
-test = ["Test"]
+[deps]
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"

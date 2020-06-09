@@ -1,6 +1,6 @@
-using DocExamples
+using DocExample
 using Test
 
-@testset "DocExamples.jl" begin
+@testset "DocExample.jl" begin
     # Write your tests here.
 end
